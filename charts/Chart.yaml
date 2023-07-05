@@ -1,0 +1,8 @@
+---
+apiVersion: v2
+name: zkwallet-helm-charts
+description: Helm charts repository for zkwallet using github pages
+
+type: application
+
+version: 1.0.0
