@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  zkwallet-globals:
+  - apiVersion: v2
+    created: "2023-07-05T21:46:22.616636437Z"
+    description: ZK KEYLESS WALLET Global Configurations voor Scaleway
+    digest: 72a9b886127c630c889bf0c63e4ed010dcf76961e0fb5c148545bd62574a4234
+    name: zkwallet-globals
+    type: application
+    urls:
+    - https://github.com/WalletZkApp/helm-charts/releases/download/zkwallet-globals-0.1.0/zkwallet-globals-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-07-05T21:46:22.616650137Z"
