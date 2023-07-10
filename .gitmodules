@@ -1,3 +1,6 @@
 [submodule "charts/zkWallet-globals"]
 	path = charts/zkWallet-globals
 	url = https://github.com/WalletZkApp/zkWallet-globals.git
+[submodule "charts/user-service-environment"]
+	path = charts/user-service-environment
+	url = https://github.com/WalletZkApp/user-service-environment.git
