@@ -20,3 +20,12 @@ To install the zkWallet-globals chart:
 To uninstall the chart:
 
     helm delete zkWallet-globals
+
+
+To install the zkWallet-globals chart:
+
+    helm install user-service-environment walletzkapp/user-service-environment
+
+To uninstall the chart:
+
+    helm delete user-service-environment
